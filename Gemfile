@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.5'
+# gem 'jekyll', '~> 3.5'
+gem "github-pages", "~> 227", group: :jekyll_plugins
 gem 'kramdown-parser-gfm', '~> 1.1.0'
 
 # Windows
