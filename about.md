@@ -125,7 +125,7 @@ For producers that are used to selling to grocery stores, at farmers markets, or
 Commission on Each Transaction
 
 ## Potential Revenue
-Commission per transaction is an excellent model because food producers don’t pay anything to set up a shop or list products, and only get a small cut taken out when they make sales. If the payment processor takes about 2% and we take 3%, then the farmer only has to pay 5% of their revenue to the platform, which provides far more value than that small investment.
+Commission per transaction is an excellent model because food producers don’t pay anything to set up a shop or list products, and only get a small cut taken out when they make sales. If the payment processor takes about 2% and Astoria takes 3%, then the farmer only has to pay 5% of their revenue to the platform, which provides far more value than that small investment.
 
 # Food Transfer Options
 
@@ -141,13 +141,17 @@ In the marketplace, a vendor enters their pickup location(s). This becomes a sea
 
 Vendors can select a price for their servicing of a particular pickup.
 
-## Not Recommended
-
-### Delivery Service
+## Delivery Service
 A vendor can use a Third Party Delivery Service (ex: Fedex, USPS).
 
-### On Premise Pickup
+## On Premise Pickup
 A customer can go to the vendor’s location and acquire their order.
 
-### Direct Delivery
+## Direct Delivery
 A vendor can deliver orders directly to customers.
+
+# COMING SOON
+
+---
+
+Astoria is currently being built. Check back for updates.
