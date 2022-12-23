@@ -189,6 +189,55 @@ Vendors can see all the orders that are part of a Community Pickup easily.
 Vendors get lower transaction fees if they use Community Pickups.
 
 
+# Memes
+
+---
+
+Astoria believes the following ideas:
+
+Regenerative Food Production will save us.
+
+Processed Food like substances are poison. They destroy us, animals, plants, and the whole ecosystem.
+
+High Quality Food is the foundation of health.
+
+Shipping food far creates a fragile system.
+
+Interdependent communities which produce the majority of their own food are necessary.
+
+The current conventional food production practices are destroying our health, the health of all life, and the health of the Earth.
+
+Building a healthy Earth means adopting practices that promote health for people, all other life, and the Earth.
+
+Regenerative farming utilizes practices such as no-till, rotational grazing, and no synthetic pesticides or fertilizers.
+
+Preservation of ancestral wisdom and traditional practices leads to sustainability and overall health at all levels.
+
+Healing the Earth requires humans, plants, animals, and microorganisms working together.
+
+Ruminant and pollinating animals play a critical role in all life cycles and systems.
+
+High quality animal products heal our bodies and the Earth.
+
+Eating nose-to-tail is necessary for our health and the sustainability of our existence.
+
+Waste must be minimized, and using the whole animal is one path on that journey.
+
+Taking part in the natural cycles of life lead to sustainability and less waste. Composting allows these cycles to happen. Feeding leftover food to chickens minimizes waste.
+
+We have the technology to grow anything anywhere. We need to capitalize on this.
+
+We must lower the bar for entry to produce food and distribute it to the community.
+
+Everyone should be producing at least some food.
+
+Distributing food among your community should require no upfront cost and very little technical knowledge or effort.
+
+Communities need a system to organize trade of local food.
+
+People need easy access to information regarding healthy food production and preparation.
+
+
 # COMING SOON
 
 ---
