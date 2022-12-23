@@ -79,7 +79,7 @@ Similar to the Middlemen challenge, the current supply chain is very large and f
 In the absence of customers knowing their food producer, regulations help ease the trust gap. But, with a direct to consumer model, customers know their food producer and are more likely to purchase food even if the producer hasn’t acquired certain certifications such as Organic.
 
 #### Finding Customers
-Many food producers are having a hard time growing their customer base and expanding their production. Selling to grocery stores has the above problems, marketing on their own is difficult and potentially expensive, and word of mouth may not be returning the results they need. An online network of food producers expands their reach easily an effectively.
+Many food producers are having a hard time growing their customer base and expanding their production. Selling to grocery stores has the above problems, marketing on their own is difficult and potentially expensive, and word of mouth may not be returning the results they need. An online network of food producers expands their reach easily and effectively.
 
 ### Customers
 
@@ -147,8 +147,8 @@ The platform allows a community to orchestrate pickups for the community that mu
 Any of the following options are opt in by a Vendor, and selectable by a customer based on the options provided by the Vendor.
 
 ## Community Pickup (Recommended)
-The Vendor sets pickup locations and times and delivers orders in a batch to these locations. For example, every week a Vendor drives to a couple nearby town centers to deliver all the orders placed that week.
-In the marketplace, a Vendor adds or joins Community Pickups. These are searchable on the map. Other Vendors are encouraged to make use of existing Community Pickups as well. This allows customers to make orders from multiple Vendors and pickup them all up at the same time in the same place.
+The Vendor sets pickup locations and times and delivers orders in a batch to these Community Pickups. For example, every week a Vendor drives to a couple nearby town centers to deliver all the orders placed that week.
+In the marketplace, a Vendor adds or joins Community Pickups. These are searchable on the map. Other Vendors are encouraged to make use of existing Community Pickups as well. This allows customers to make orders from multiple Vendors and pick them all up at the same time in the same place.
 
 ## Delivery Service
 A Vendor can use a Third Party Delivery Service (ex: Fedex, USPS).
@@ -179,7 +179,7 @@ Users can search for Vendors. This can bring them to the page for a Vendor, wher
 Users can search for food. This returns results on all the food on Astoria, which can be filtered by location.
 
 #### Checkout
-In checkout, users can select the shipping methods for each Vendor. If going from shopping a pickup, that pickup is the default value. Users can change this shipping method though.
+In checkout, users can select the shipping methods for each Vendor. If coming from shopping a Community Pickup, that pickup is the default value. Users can change this shipping method though.
 
 ## Vendor
 A Vendor joins the platform after filling out an application process requiring pictures of their operation, a description of their processes, and more. After approval they add details to their Vendor ‘about’ page, add products and stock, join or add new Community Pickups, and set themselves to open for business. They can, at any time, receive orders for their products that are listed and have stock.
