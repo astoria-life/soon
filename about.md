@@ -182,7 +182,7 @@ Users can search for food. This returns results on all the food on Astoria, whic
 In checkout, users can select the shipping methods for each Vendor. If coming from shopping a Community Pickup, that pickup is the default value. Users can change this shipping method though.
 
 ## Vendor
-A Vendor joins the platform after filling out an application process requiring pictures of their operation, a description of their processes, and more. After approval they add details to their Vendor ‘about’ page, add products and stock, join or add new Community Pickups, and set themselves to open for business. They can, at any time, receive orders for their products that are listed and have stock.
+A Vendor joins the platform after filling out an application process requiring pictures of their operation, a description of their processes, and more. After approval, they add details to their Vendor ‘about’ page, add products and stock, join or add new Community Pickups, and set themselves to open for business. They can, at any time, receive orders for their products that are listed and have stock.
 
 Vendors can see all the orders that are part of a Community Pickup easily.
 
