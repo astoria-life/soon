@@ -16,6 +16,7 @@ Facilitate and Incentivize Trade of Regeneratively Grown Food
 # WHAT ASTORIA IS
 Astoria is a Food Church Platform: A Private Member to Member Ecommerce Marketplace for High Quality Food Focused on Organizing Community Pickups
 
+
 # Why
 
 ---
@@ -38,6 +39,7 @@ Lower the barrier for entry to produce food (ex: bypass certifications)
 
 Food producers should be able to process their own animals, sell unwashed eggs, raw milk, etc.
 
+
 # How
 
 ---
@@ -58,7 +60,6 @@ Astoria compiles and produces informational content to teach people the principl
 
 ## Quality Tiers (2)
 Astoria rates Vendors within a system based on regenerative food production principles, somewhat similarly to Whole Foods. Vendors go through an application process to join the platform and start at the base tier. In order to reach higher tiers, an Astoria representative must inspect the facility and determine the rating. Higher tiers give more perks such as lower transaction fees and higher customer reach through content boosting.
-
 
 # Value Proposition
 
@@ -94,7 +95,7 @@ In order to buy high quality foods directly from food producers, customers must 
 ## Solution
 ### The Astoria Food Church Multi-Vendor Ecommerce Marketplace
 
-Meet in the middle between the Grocery Store, where customers pay for the luxury of not having to source all the products individually, and sourcing all the products individually and managing the logistics, which is cheaper, but requires coordination.
+Meet in the middle between the Grocery Store, where customers pay for the luxury of not having to source all the products individually, and buying directly from vendors, which is cheaper, but requires coordination.
 
 The marketplace gives the luxury of easily sourcing all needed food, just like a grocery store, with much closer to direct from producer prices.
 
@@ -125,29 +126,29 @@ Astoria allows people to freely trade high quality food.
 
 Lower prices than the grocery store, but the convenience of easily buying from multiple Vendors.
 
-# Revenue
+
+# Revenue Model
 
 ---
 
-## Model
 Commission on Each Transaction
 
-## Potential Revenue
-Commission per transaction is an excellent model because food producers don’t pay anything to set up a shop or list products, and only get a small cut taken out when they make sales. If the payment processor takes about 2% and Astoria takes 3%, then the Vendor only has to pay 5% of their revenue to the platform, which provides far more value than that small investment.
+This is an excellent model because food producers don’t pay anything to set up a shop or list products, and only get a small cut taken out when they make sales.
+
+The payment processor takes about 2% and Astoria takes about 3%, meaning the Vendor only has to pay 5% of their revenue to the platform, which provides far more value than that small investment.
+
 
 # Food Transfer Options
 
 ---
 
-The main difference and value add for the platform is to orchestrate pickups for the community that multiple Vendors in the area will all service.
+The platform allows a community to orchestrate pickups for the community that multiple Vendors will all service.
 
 Any of the following options are opt in by a Vendor, and selectable by a customer based on the options provided by the Vendor.
 
 ## Community Pickup (Recommended)
 The Vendor sets pickup locations and times and delivers orders in a batch to these locations. For example, every week a Vendor drives to a couple nearby town centers to deliver all the orders placed that week.
-In the marketplace, a Vendor enters their pickup location(s). This becomes a searchable entity on the map. Other Vendors are encouraged to make use of that pickup location and time, if possible, as well. This allows customers to make orders from multiple Vendors and pickup them all up at the same time in the same place.
-
-Vendors can select a price for their servicing of a particular pickup.
+In the marketplace, a Vendor adds or joins Community Pickups. These are searchable on the map. Other Vendors are encouraged to make use of existing Community Pickups as well. This allows customers to make orders from multiple Vendors and pickup them all up at the same time in the same place.
 
 ## Delivery Service
 A Vendor can use a Third Party Delivery Service (ex: Fedex, USPS).
@@ -158,6 +159,7 @@ A customer can go to the Vendor’s location and acquire their order.
 ## Direct Delivery
 A Vendor can deliver orders directly to customers.
 
+
 # User Experience
 
 ---
@@ -165,6 +167,7 @@ A Vendor can deliver orders directly to customers.
 The marketplace is Community Pickup focused. Default functionality and user experience is centered around Community Pickups.
 
 ## Customer
+
 #### Community Pickup Search
 Customers log in, enter their location, and then search. This produces a map with the Community Pickups in their area. When they select a pickup, they get a storefront that combines all of the Vendors that service that pickup.
 Customers add products to their cart, checkout, and then the orders are split and routed to the appropriate Vendor. At the pickup, the customer is notified of the Vendors that have a piece of their order.
@@ -191,3 +194,5 @@ Vendors get lower transaction fees if they use Community Pickups.
 ---
 
 Astoria is currently being built. Check back for updates.
+
+Email [cory@astoria.trading](mailto:cory@astoria.trading) to get involved.
