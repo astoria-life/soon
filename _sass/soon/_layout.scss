@@ -1,5 +1,6 @@
 /* layout */
 .soon-box {
+    background: url("images/background.jpg") top left / auto no-repeat;
     position: absolute;
     right: 0;
     bottom: 0;
@@ -46,9 +47,33 @@
         p, ol, ul, blockquote {
             font-size: $size-xlarge;
         }
+        margin-bottom: 50px;
     }
 }
 
 .countdown-timer {
     font-size: $size-xlarge;
+}
+
+.about-link {
+  text-shadow: 1px 1px 2px #000000;
+  font-size: 36px;
+  color: #34B755;
+}
+
+.about-box {
+  background: #ffffff;
+  padding-bottom: 10vh;
+}
+
+.about-content {
+  text-align: center;
+  width: 70vw;
+  margin: auto;
+  color: #4B5842;
+}
+
+.about-box-wrapper {
+  width: 100%;
+  text-align: center;
 }

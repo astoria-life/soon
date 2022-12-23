@@ -20,28 +20,19 @@
         {% include head.html %}
     </head>
     <body>
-        <div class="soon-box" id="soon-box">
-            <div class="soon-box-wrapper" id="soon-box-wrapper">
-                <section class="section main">
+        <div class="about-box" id="about-box">
+            <div class="about-box-wrapper" id="about-box-wrapper">
+                <section class="about-content">
                     {% if site.logo %}
                         <div class="subsection brand">
-                            <img src="{{ site.logo }}" class="logo">
+                            <a href="/"><img src="{{ site.logo }}" class="logo"></a>
                         </div>
                     {% endif %}
 
-                    <div class="subsection content">
+                    <div class="subsection content about-content">
                         {{ content }}
                     </div>
-                    <a class="about-link" href="/about.html">LEARN MORE</a>
                 </section>
-
-                {% if site.subscribe %}
-                    {% include subscribe.html %}
-                {% endif %}
-
-                {% if site.social %}
-                    {% include social.html %}
-                {% endif %}
             </div>
         </div>
 

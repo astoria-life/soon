@@ -4,13 +4,10 @@ permalink: /
 ---
 
 # VISION
-
 Build a Healthy Earth
 
-# HOW TO GET THERE
-
-Prioritize Food Grown Regeneratively
+# HOW WE GET THERE
+Promote Regeneratively Grown Food
 
 # ASTORIA
-
-High Quality Food Marketplace
+Online Food Church

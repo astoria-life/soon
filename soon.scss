@@ -6,9 +6,9 @@
 
 // Import font for default $base-font-family
 @import url('https://fonts.googleapis.com/css?family=Oswald|Roboto');
-
-{% if site.background %}
-    html { background: url("{{ site.background }}") top left / auto no-repeat; }
-{% endif %}
+//
+// {% if site.background %}
+//     html { background: url("{{ site.background }}") top left / auto no-repeat; }
+// {% endif %}
 
 @import "soon/all";

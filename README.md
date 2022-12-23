@@ -30,3 +30,12 @@ BSD 3 clause.
 
 * Placholder background from [Pexels](https://www.pexels.com/photo/abstract-art-astronomy-background-220071/)
 * Placeholder logo from [LogoDust](http://logodust.com/)
+
+
+
+# run in docker
+docker run --rm \
+  --volume="$PWD:/srv/jekyll:Z" \
+  -p 4000:4000 \
+  jekyll/jekyll \
+  jekyll serve
