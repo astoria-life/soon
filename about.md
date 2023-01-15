@@ -3,19 +3,11 @@ layout: about
 title: About
 ---
 
-# Build a Healthy Earth
+# Join The Parallel Food Economy
 
 ---
 
-# VISION
-Build a Healthy Earth by Growing Regenerative Food Production
-
-# HOW WE GET THERE
-Facilitate and Incentivize Trade of Regeneratively Grown Food
-
-# WHAT ASTORIA IS
-Astoria is a Food Church Platform: A Private Member to Member Ecommerce Marketplace for High Quality Food Focused on Organizing Community Pickups
-
+We believe that each of us has the God given right to produce, sell, buy, and consume traditional nutrient dense food. Astoria is an Online Food Church: A private member to member marketplace for healthy food focused on building local networks. Astoria enables members to cultivate relationships with food producers near and far, and easily become a food producer themself.
 
 # Why
 
@@ -135,7 +127,7 @@ Commission on Each Transaction
 
 This is an excellent model because food producers don’t pay anything to set up a shop or list products, and only get a small cut taken out when they make sales.
 
-The payment processor takes about 2% and Astoria takes about 3%, meaning the Vendor only has to pay 5% of their revenue to the platform, which provides far more value than that small investment.
+The payment processor takes about 2% and Astoria takes about 7% total. 3% of that is added on to the sub-total and paid by the customer, and 4% is paid by the vendor. The Vendor only has to pay 6% of their revenue to the platform, which provides far more value than that small investment.
 
 
 # Food Transfer Options
