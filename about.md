@@ -3,6 +3,7 @@ layout: about
 title: About
 ---
 
+# Exit the Legacy Food Industry
 # Join The Parallel Food Economy
 
 ---
