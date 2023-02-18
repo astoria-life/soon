@@ -220,7 +220,7 @@ Taking part in the natural cycles of life lead to sustainability and less waste.
 
 We have the technology to grow anything anywhere. We need to capitalize on this.
 
-We must lower the bar for entry to produce food and distribute it to the community.
+We must lower the barrier for entry to produce food and distribute it to the community.
 
 Everyone should be producing at least some food.
 
@@ -229,6 +229,19 @@ Distributing food among your community should require no upfront cost and very l
 Communities need a system to organize trade of local food.
 
 People need easy access to information regarding healthy food production and preparation.
+
+# Media
+
+
+
+![Join](/images/join-the-parallel-food-economy.png)
+
+![Save](/images/storefront_regenerative_food_will_save_us.png)
+
+![Stewards](/images/stewards.png)
+
+![Produce](/images/produce.png)
+
 
 
 # COMING SOON

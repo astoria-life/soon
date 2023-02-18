@@ -3,7 +3,7 @@ layout: soon
 permalink: /
 ---
 
-# Join The Parallel Food Economy
+# Join The Parallel Economy for Food
 
 ---
 
